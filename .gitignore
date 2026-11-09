@@ -1,0 +1,22 @@
+# 원문(저작권) — 저장소에 포함하지 않음. 각 저본에서 확보해 넣는다(README §3).
+corpora/
+*.txt
+!README*.txt
+
+# 분석 산출물
+out/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
