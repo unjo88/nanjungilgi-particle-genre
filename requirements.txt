@@ -1,0 +1,7 @@
+# 분석 스크립트(analysis.py) 실행에 필요한 패키지
+numpy>=1.24
+scipy>=1.10
+
+# (선택) xlsx 입출력이 필요할 때
+# openpyxl>=3.1
+# pandas>=2.0
