@@ -5,14 +5,14 @@ abstract: >-
   『난중일기』·『무경칠서』·『사서』·이분 「행록」의 조사(助詞) 운용을
   계량적으로 비교한 논문의 재현용 데이터(조사 계수·용례 색인)와 분석 코드.
 authors:
-  - family-names: "○○○"      # 성(한글)
-    given-names: "○○○"       # 이름(한글)
+  - family-names: "정(鄭)"      # 성(한글)
+    given-names: "운조(雲操)"       # 이름(한글)
     affiliation: "조선대학교 국제문화연구원"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # (선택) 기입
+    
 version: "1.0.0"
 date-released: "2026-11-09"
 license: MIT
-repository-code: "https://github.com/○○○/○○○"
+repository-code: "https://github.com/unjo88/nanjungilgi-particle-genre"
 # doi: "10.5281/zenodo.○○○○○○○"   # (선택) GitHub–Zenodo 연동으로 DOI 발급 시 주석 해제·기입
 keywords:
   - "난중일기"
@@ -26,8 +26,8 @@ preferred-citation:
   type: article
   title: "『난중일기』의 조사 운용과 장르 효과 ― 조선의 「행록」 및 중국의 『무경칠서』·『사서』와의 계량적 비교"
   authors:
-    - family-names: "○○○"
-      given-names: "○○○"
+    - family-names: "정(鄭)"
+      given-names: "운조(雲操)"
   journal: "韓中言語文化硏究"
   issue: "52"
   year: 2026
